@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Apnea</string>
+    <string name="button4">Start</string>
+    <string name="button1">睡眠時間</string>
+    <string name="button2">結果</string>
+    <string name="button3">啟動</string>
+    <string name="button5">Stop</string>
+    <string name="BT">藍芽裝置配對</string>
+    <string name="藍芽裝置配對" />
+    <string name="scan">藍芽開啟</string>
+    <string name="off">藍芽關閉</string>
+    <string name="title_home">錄音</string>
+    <string name="title_dashboard">統計資料</string>
+    <string name="title_notifications">記錄</string>
+    <string name="textview">開始</string>
+    <string name="alarm">鬧鈴設置</string>
+    <string name="snoring">鼾聲間隔</string>
+    <string name="apnea">呼吸紊亂指數(AHI)</string>
+</resources>
